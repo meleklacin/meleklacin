@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![GitHub](https://github-readme-stats-meleklacin.vercel.app/api?username=meleklacin&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/meleklacin)
 
 
