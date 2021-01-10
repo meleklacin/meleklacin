@@ -3,7 +3,7 @@
 <!--
 **meleklacin/meleklacin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://camo.githubusercontent.com/151325141373def568b2e0d37beb239e7358052940bbf15cd3c1d20963b19a7c/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736169746f7268616e
+
 
 Here are some ideas to get you started:
 
@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://camo.githubusercontent.com/bd44ccfd9dad8d42fb19cacdac1ce3d2da666127da16876455a661988cf65f5d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f737461636b6f766572666c6f772e737667
+
+
+https://camo.githubusercontent.com/b4b4723360ed5502b38d401e81f4e654b53bbad57f7887ff817eef8adeffb98d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d736169746f7268616e266c61796f75743d636f6d70616374
+
+
